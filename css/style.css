@@ -7,3 +7,27 @@ body {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: #000;
 }
+
+a:link { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: normal;
+}
+ 
+a:visited { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: normal;
+}
+ 
+a:hover { 
+    text-decoration: underline;
+    color: #669933;
+    font-weight: normal;
+}
+ 
+a:active { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+}
